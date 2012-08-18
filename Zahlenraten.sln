@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zahlenraten", "Zahlenraten\Zahlenraten.csproj", "{A50B96DC-1378-4444-8C9C-FD0D901BA4DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A50B96DC-1378-4444-8C9C-FD0D901BA4DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50B96DC-1378-4444-8C9C-FD0D901BA4DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50B96DC-1378-4444-8C9C-FD0D901BA4DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50B96DC-1378-4444-8C9C-FD0D901BA4DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
