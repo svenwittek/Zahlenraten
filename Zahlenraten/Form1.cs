@@ -13,10 +13,15 @@ namespace WindowsFormsApplication1
     {
         int Eingabe, Zahl, Geraten;
         bool Spiel;
-        public Form1();
+        // public Form1();
         Random Zufall = new Random();
+
+         public Form1()
+        {
             InitializeComponent();
-    }
+        }
+
+
         private void button1_Click(object sender, EventArgs e)
         {
             if (Spiel) //button1.Text == "OK"
@@ -24,7 +29,7 @@ namespace WindowsFormsApplication1
                 try
                 {
                     Eingabe = Convert.ToInt32(textBox1.Text);
-                    if (Eingabe == Zahl) ;
+                    if (Eingabe == Zahl) 
                     {
                         label1.Text = "Richtig";
                         button1.Text = "Neues Spiel?";
@@ -56,5 +61,6 @@ namespace WindowsFormsApplication1
             Geraten = 0;
             Spiel = true;
         }
+
     }
 }

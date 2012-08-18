@@ -1,0 +1,8 @@
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.exe
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\Zahlenraten\Zahlenraten\bin\Debug\Zahlenraten.pdb
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\Zahlenraten\Zahlenraten\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\Zahlenraten\Zahlenraten\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\Zahlenraten\Zahlenraten\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.csproj.GenerateResource.Cache
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.exe
+C:\Users\Sven\Documents\Visual Studio 2008\Projects\Zahlenraten\Zahlenraten\obj\Debug\Zahlenraten.pdb
